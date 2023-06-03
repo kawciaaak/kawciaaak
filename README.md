@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**kawciaaak/kawciaaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Maciej Kawa, a student of Robotics and Control Engineering. 🎓🤖
 
-Here are some ideas to get you started:
+Currently, I'm honing my skills at ABC where I'm working on an autonomous system for a Formula 1 racing car. 🏎️🏁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you'd like to collaborate on a project, feel free to get in touch! 💡👥
+
+# Tech Stack
+
+I'm proficient in:
+
+C++
+C
+Python 🐍
+ROS2
+Qt
+
+# Feel free to explore my repositories and let's get coding! 💻🌐
+
