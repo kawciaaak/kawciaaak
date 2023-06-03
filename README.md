@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-# My name is Maciej Kawa, a student of Robotics and Control Engineering. 🎓🤖
+# My name is Maciej Kawa, a student of Control Engineering and Robotics. 🎓🤖
 
 Currently, Software Engineer in PWR Racing Team where I'm working on an autonomous system for a Formula Student racing car. 🏎️🏁
 
