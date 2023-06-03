@@ -2,7 +2,7 @@
 
 # My name is Maciej Kawa, a student of Robotics and Control Engineering. 🎓🤖
 
-Currently, I'm honing my skills at ABC where I'm working on an autonomous system for a Formula 1 racing car. 🏎️🏁
+Currently, I'm improving my skills at PWR Racing Team where I'm working on an autonomous system for a Formula Student racing car. 🏎️🏁
 
 If you'd like to collaborate on a project, feel free to get in touch! 💡👥
 
