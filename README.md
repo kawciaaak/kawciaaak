@@ -1,25 +1,28 @@
 # Hello there! 👋
 
-## My name is Maciej Kawa, a student of Control Engineering and Robotics. 🎓🤖
-
-Currently, Software Engineer in PWR Racing Team where I'm working on an autonomous system for a Formula Student racing car. 🏎️🏁
+## My name is Maciej Kawa, Junior Software Engineer
 
 If you'd like to collaborate on a project, feel free to get in touch! 💡👥
+
+## Been there, done that: 
+
+Creating a edge-cutting Advanced Driver Assistant System for a premium automotive corporation.
+
+Developing test software for an autonomous electric car system
 
 ## Tech Stack
 
 I'm proficient in:
 
 C++
-
-C
-
 Python 🐍
 
-ROS2
-
+ROS,ROS2
 Qt
+GTest
 
+Bazel
+CMake
 
 ## Feel free to explore my repositories and let's get coding! 💻🌐
 
